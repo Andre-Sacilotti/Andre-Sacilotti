@@ -11,3 +11,13 @@
     :smile: Pronouns: he/him/his <br>
   </samp>
 </p>
+
+<p align="center">
+  <br>
+  <samp>
+    Projects i'm working: <br>
+    Self-Driving car in python using Carla Simulator<br>
+    Virtual Wine Cellar for Android<br>
+    Portifolio Website<br>
+  </samp>
+</p>

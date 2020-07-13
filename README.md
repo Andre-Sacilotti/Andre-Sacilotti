@@ -16,8 +16,8 @@
   <br>
   <samp>
     Projects i'm working: <br>
+    EasyText, an python tool for NLP
     Self-Driving car in python using Carla Simulator<br>
-    Virtual Wine Cellar for Android<br>
     Portifolio Website<br>
   </samp>
 </p>

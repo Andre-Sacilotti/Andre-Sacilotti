@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello, I'm André! 👋<br>
-    Data Science and Mobile Dev Enthusiast<br>
+    Data Science Enthusiast<br>
     :school: Federal University of São Carlos<br>
     :computer: Favorite Tech: Python, Kotlin, Java, SQLite, Tensorflow <br>
     :email:	andre.sacilotti@gmail.com <br>

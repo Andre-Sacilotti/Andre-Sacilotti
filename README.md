@@ -2,10 +2,10 @@
   <br>
   <samp>
     Hello, I'm André! 👋<br>
-    Data Science and Dev Enthusiast<br>
+    Data Science enthusiast<br>
+    :briefcase: Python developer intern<br>
     :school: Federal University of São Carlos<br>
     :computer: Favorite Tech: Python, Flask/Django <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/andre-sacilotti <br>
     :smile: Pronouns: he/him/his <br>
   </samp>
 </p>

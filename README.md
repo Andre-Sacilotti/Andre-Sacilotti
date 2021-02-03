@@ -3,7 +3,6 @@
   <samp>
     Hello, I'm André! 👋<br>
     Data Science enthusiast<br>
-    :briefcase: Python developer intern<br>
     :school: Federal University of São Carlos<br>
     :computer: Favorite Tech: Python, Flask/Django <br>
     :smile: Pronouns: he/him/his <br>

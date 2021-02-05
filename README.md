@@ -1,10 +1,10 @@
 <p align="center">
   <br>
   <samp>
-    Hello, I'm André! 👋<br>
+    Hello, I'm André! :rainbow_flag:<br>
     Data Science enthusiast<br>
     :school: Federal University of São Carlos<br>
-    :computer: Favorite Tech: Python, Flask/Django <br>
+    :computer: Favorite Tech: Python, Flask/Django, C++, Javascript <br>
     :smile: Pronouns: he/him/his <br>
   </samp>
 </p>

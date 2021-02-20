@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello, I'm André! :rainbow_flag:<br>
-    Data Science enthusiast<br>
+    Data Science and Computer Vision enthusiast<br>
     :school: Federal University of São Carlos<br>
     :computer: Favorite Tech: Python, Flask/Django, C++, Javascript <br>
     :smile: Pronouns: he/him/his <br>

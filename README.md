@@ -3,7 +3,7 @@
   <samp>
     Hello, I'm André! :rainbow_flag:<br>
     :school: University of São Paulo (USP)<br>
-    :computer: Favorite Tech: Python, Flask/Django, C++ <br>
+    :computer: Favorite Tech: Python, Flask/Django, Go, Ruby <br>
     :smile: Pronouns: he/him <br>
   </samp>
 </p>

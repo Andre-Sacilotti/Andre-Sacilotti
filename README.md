@@ -1,9 +1,11 @@
 <p align="center">
   <br>
   <samp>
-    Hello, I'm André! <br>
-    :school: University of São Paulo (USP)<br>
-    :computer: Favorite Tech: Python, Flask/Django/FastAPI, Go <br>
+    Hey, I'm André! <br>
+    :school: Statistics @ University of São Paulo (USP)<br>
+    🔭 Computer Vision Researcher @ Visio <br>
+    🔬 Undergraduate Researcher in Action Recognition, Domain Adaptation and NAS<br>
+    :computer: Favorite Tech: Python, Go, C++, Java <br>
     :smile: Pronouns: he/him <br>
   </samp>
 </p>
